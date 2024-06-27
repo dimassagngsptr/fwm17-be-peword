@@ -60,19 +60,34 @@ Ensure you have the following installed on your local machine:
 1. Clone Repo
 
    ```sh
-     git clone https://github.com/harbanery/be-peworld-hirejob-app.git
+     git clone https://github.com/dimassagngsptr/fwm17-be-peword.git
    ```
 
-2. Install NPM packages
+2. Go to folder
+
+   ```sh
+    cd fwm17-be-peword
+   ```
+
+   ```sh
+     code .
+   ```
+
+3. Install NPM packages
 
    ```sh
      npm install
    ```
 
-3. To start the development server:
+4. To start the development server:
 
    ```sh
-      npm run dev
+     nodemon
+   ```
+   if doesnt work
+
+   ```sh
+      node index.js
    ```
 
 ## Usage
