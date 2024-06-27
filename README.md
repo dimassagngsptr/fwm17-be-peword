@@ -9,7 +9,7 @@
     Peworld Implementation
     <br />
     <br />
-   <a href="https://dimas-peworld.vercel.app/" target="_blank">View Demo</a>
+   <a href="https://dimas-peworld.vercel.app/" target="_blank">View Website Demo</a>
     ·
     <a href="https://github.com/dimassagngsptr/fwm17-be-peword.git" target="_blank">View Back-End Repo</a>
   </p>
