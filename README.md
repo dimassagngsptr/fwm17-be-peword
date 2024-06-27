@@ -1,36 +1,32 @@
 <div align="center">
-  <img src="./public/peworld.png" alt="Logo Peworld" width="200"/>
+  <a href="https://github.com/dimassagngsptr/Peworld">
+      <img src="https://github.com/dimassagngsptr/Peworld/blob/development/public/screenshoot/foot-logo.png" width="350"/>
+  </a>
+
+  <h1 align="center">Peworld</h1>
+
+  <p align="center">
+    Peworld Implementation
+    <br />
+    <br />
+   <a href="https://dimas-peworld.vercel.app/" target="_blank">View Demo</a>
+    ·
+    <a href="https://github.com/dimassagngsptr/fwm17-be-peword.git" target="_blank">View Back-End Repo</a>
+  </p>
 </div>
 
-# Back-End for Peworld: Hire Job Implementation
-
-  <h1>Table of Contents</summary>
-  <ul>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#usage">Usage</a>
-      <ul>
-        <li><a href="#documentation">Documentation</a></li>
-        <li><a href="#project-related">Project Related</a></li>
-      </ul>
-    </li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
-  </ul>
-
+- [Table of Contents](#table-of-contents)
+- [About The Project](#about-the-project)
+  - [Built With](#built-with)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Screenshots](#screenshots)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+- [Documentation](#documentation)
+- [Related Project](#related-project)
 ## About The Project
 
 This back-end project for **Peworld** was developed by [muhammadrisano](https://github.com/muhammadrisano) using Express.js. Feel free to explore the source code, which I have forked from the original repository. It includes all the files and documentation needed to develop and run the server side of this application. Thank you for developing this back-end project.
@@ -48,6 +44,12 @@ To get a local copy up and running follow these simple steps.
 ### Prerequisites
 
 Ensure you have the following installed on your local machine:
+
+- node js
+  ```sh
+      node version 20
+  ```
+  [Visit Link to download Node.Js](https://nodejs.org/en)
 
 - npm
 
