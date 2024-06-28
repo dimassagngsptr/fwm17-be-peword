@@ -186,7 +186,11 @@ Contributions are what make the open source community such an amazing place to l
 
 ## Contact
 
-If you have any questions or inquiries regarding this project, feel free to contact me at ryusuf05@gmail.com or [muhammadrisano](https://github.com/muhammadrisano) for back-end issues.
+If you have any questions or inquiries regarding this project, feel free to contact me at 
+
+email : dimasageng58@gmail.com
+
+or [muhammadrisano](https://github.com/muhammadrisano) for back-end issues.
 
 ## Acknowledgements
 
